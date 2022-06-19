@@ -21,6 +21,7 @@ tfx==0.25.0
 kfp==1.0.4
 EOF
 
+
 python -m pip install -U --user -r requirements.txt
 
 # Install Skaffold
